@@ -1,0 +1,65 @@
+[
+  {
+
+    "src": "images/jon.jpg",
+    "nbr_coloc": "4",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Jon Snow",
+    "profession": "Roi du Nord"
+  },
+  {
+    "src": "images/mich.jpg",
+    "nbr_coloc": "2",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Michael Scott",
+    "profession": "Manager"
+
+  },
+  {
+    "src": "images/lebron.jpg",
+    "nbr_coloc": "3",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Lebron James",
+    "profession": "Basketteur"
+
+  },
+  {
+    "src": "images/mbappe.jpg",
+    "nbr_coloc": "4",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Kylian Mbappe",
+    "profession": "Footballeur"
+
+  },
+  {
+    "src": "images/luffy.jpg",
+    "nbr_coloc": "7",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Luffy",
+    "profession": "Capitaine"
+
+  },
+  {
+    "src": "images/dwight.jpg",
+    "nbr_coloc": "4",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Dwight Schrute",
+    "profession": "Assistant du manager"
+
+  },
+  {
+    "src": "images/dev.jpg",
+    "nbr_coloc": "2",
+    "revenu_garants": "6 390",
+    "revenu_candidats": "3 580",
+    "nom": "Dev Shah",
+    "profession": "Acteur"
+  }
+
+]

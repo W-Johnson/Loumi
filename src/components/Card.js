@@ -3,12 +3,12 @@ import Button from '@material-ui/core/Button';
 
 class Card extends React.Component {
     render() {
-        const {data} = this.props;
+        const {item} = this.props;
         return (
             <>
                 {
-                    data.map((item, index) => (
-                        <div className="card" key={index}>
+
+                        <div className="card" >
                             <div>
                                 <h2>Colocation {item.nbr_coloc} pers.</h2>
                             </div>
@@ -47,7 +47,7 @@ class Card extends React.Component {
                                 <small className="text-muted">Visite du 9 juin a 14h35</small>
                             </div>
                         </div>
-                    ))
+
                 }
             </>
         )
